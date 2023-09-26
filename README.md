@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=g1ngerBrad.g1ngerBrad&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=g1ngerBrad.g1ngerBrad&"/>
 </div>
 
 ###
@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/g1ngerBrad/g1ngerBrad/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/g1ngerBrad/g1ngerBrad/output/snake.svg" alt="Snake animation"/>
 
 ###
